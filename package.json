@@ -1,0 +1,17 @@
+{
+  "name": "slide-img",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {},
+  "license": "MIT",
+  "dependencies": {
+    "micro": "^9.0.0"
+  },
+  "devDependencies": {
+    "micro-dev": "^1.2.3"
+  },
+  "scripts": {
+    "dev": "micro-dev",
+    "start": "micro"
+  }
+}
